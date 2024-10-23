@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tipitinge.github.io/tipitinge.tipitinge
+Sitemap: https://tipitinge.github.io/app/tipitinge.tipitinge
+Sitemap: https://tipitinge.github.io/assets/tipitinge.tipitinge
+Sitemap: https://tipitinge.github.io/css/tipitinge.tipitinge
+Sitemap: https://tipitinge.github.io/includes/tipitinge.tipitinge
+Sitemap: https://tipitinge.github.io/item/tipitinge.tipitinge
+Sitemap: https://tipitinge.github.io/src/tipitinge.tipitinge
